@@ -57,6 +57,7 @@ h1 {
     color: rgba(27, 25, 25, 0.708);
     border-right: 2px solid rgba(27, 25, 25, 0.708);
     width: 25%;
+    margin-top: 20px;
 
 }
 h3{
@@ -65,9 +66,17 @@ h3{
 }
 
 #backgroundImage{
-    background-image: url(
-    
+    background-image: url("cool-blue-abstract-clipart-downloads.jpeg");
+    background-color: #CCCCCC;
 }
+
+#coolSubtitle{
+    background-color: lightblue;
+    float: right;
+    margin-top: 40px;
+
+}
+
 footer {  
     padding: 30px 0;  
     clear: both; 
